@@ -15,3 +15,18 @@ Along with this the firewall will restrict the access of the system to the block
 If someone tries to enter the system, they will not be allowed to enter.  
 This project will help users to share the data securely and any hidden threats can be easily detected.
 It’s a simple and practical way to combine image steganography (for hiding the data) and firewall (for security and protection) in one system
+
+
+# MICROP1
+
+A web-based steganography project.
+
+## Features
+- Admin panel
+- User panel
+- Hide messages in files
+- Simple HTML/CSS interface
+
+## Technologies Used
+- HTML
+- CSS
